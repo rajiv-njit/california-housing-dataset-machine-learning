@@ -12,6 +12,22 @@ https://github.com/ageron/handson-ml2/tree/master/datasets/housing
 ### This repository contains machine learning projects using the California Housing dataset. The projects include:
 
 ### Exploratory data analysis
+
+The DataFrame has 10 columns and 20640 rows. The columns are:
+
+longitude: The longitude of the property.
+latitude: The latitude of the property.
+housing_median_age: The median age of the housing units in the census block.
+total_rooms: The total number of rooms in the census block.
+total_bedrooms: The total number of bedrooms in the census block.
+population: The population of the census block.
+households: The number of households in the census block.
+median_income: The median income of households in the census block.
+median_house_value: The median value of housing units in the census block.
+ocean_proximity: The proximity of the property to the ocean (categorical variable).
+
+
+
 ### Feature engineering
 ### Model selection
 ### Model evaluation
